@@ -6,8 +6,6 @@ logs/app.log
 libs
 activemq-data/
 /target/
-/src/test/kotlin/tdd
-/src/test/java/tdd
 
 ### IntelliJ IDEA ###
 .idea/
