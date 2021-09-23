@@ -1,0 +1,21 @@
+.gradle
+/build/
+.DS_Store
+application.properties
+logs/app.log
+libs
+activemq-data/
+/target/
+/src/test/kotlin/tdd
+/src/test/java/tdd
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+/out/
+/target/
+/logs/*
+*.log
+target/
