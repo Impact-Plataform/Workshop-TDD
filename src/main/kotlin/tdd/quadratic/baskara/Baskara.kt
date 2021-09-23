@@ -1,4 +1,4 @@
-package tdd.quadratic.baskara.tests.baskara
+package tdd.quadratic.baskara
 
 import java.math.BigDecimal
 
