@@ -30,6 +30,8 @@ Para isso iremos utilizar um caso clássico de matemática fundamental: Equaçõ
 
 ## lista de raízes para equações completas de segundo grau
 
+Para uso na aula. Não se preocupe com isso antes ;)
+
 ### Duas raízez (Delta > 0)
 
 a = 1
