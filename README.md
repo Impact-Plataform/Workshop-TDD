@@ -115,4 +115,4 @@ b = -4
 
 c = 5
 
-Resultado esperado = [0,5]
+Resultado esperado = []
