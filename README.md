@@ -21,6 +21,53 @@ https://play.kotlinlang.org/byExample/01_introduction
 
 Para efeitos dessa aula, o conteúdo da introdução deve ser suficiente, principalmente para quem já conhece Java.
 
+A maior parte do código que iremos escrever é bem parecida com Java. 
+
+### Funções
+
+Funções mais simples, que podem ser definidas em 1 linha, podem ser feitas nesse formato
+
+`fun sum(a: Integer, val b: Integer) = a + b`
+
+Ou você pode adotar um estilo mais parecido com java
+
+`fun sum(a: Integer, val b: Integer) : Integer {
+    return a + b
+}`
+
+### Operações com BigDecimals
+
+**Soma**
+
+`val result = BigDecimal(10).plus(BigDecimal(5)) // 15`
+
+
+**Subtração**
+
+`val result = BigDecimal(10).minus(BigDecimal(5)) // 5`
+
+
+**Multiplicação**
+
+`val result = BigDecimal(2).multiply(BigDecimal(4)) // 8`
+
+
+**Divisão**
+
+`val result = BigDecimal(8).divide(BigDecimal(2)) // 4`
+
+
+**Raiz quadrada**
+
+`val result = BigDecimal(16).sqrt(MathContext(10)) // 4`
+
+
+**Potência**
+
+`val result = BigDecimal(3).number.pow(2) // 9`
+
+Esse resuminho tem 90% do kotlin que precisará ser escrito nessa aula!
+
 
 ## A Dinâmica
 
