@@ -105,7 +105,7 @@ b = -4
 
 c= 1
 
-Resultado esperado = [0,5]
+Resultado esperado = [0.5]
 
 
 ### Nenhuma raiz real (Delta < 0)
